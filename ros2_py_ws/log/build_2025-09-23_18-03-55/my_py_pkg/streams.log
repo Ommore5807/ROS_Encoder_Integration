@@ -1,0 +1,18 @@
+[0.961s] Invoking command in '/home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg': PYTHONPATH=/home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ommore5807/Workspaces/ros2_py_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg/build --no-deps symlink_data
+[1.336s] running develop
+[1.490s] running egg_info
+[1.491s] writing my_py_pkg.egg-info/PKG-INFO
+[1.491s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[1.491s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[1.492s] writing requirements to my_py_pkg.egg-info/requires.txt
+[1.492s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[1.493s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.496s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[1.498s] running build_ext
+[1.498s] Creating /home/ommore5807/Workspaces/ros2_py_ws/install/my_py_pkg/lib/python3.10/site-packages/my-py-pkg.egg-link (link to .)
+[1.499s] Installing my_publisher script to /home/ommore5807/Workspaces/ros2_py_ws/install/my_py_pkg/lib/my_py_pkg
+[1.499s] Installing my_subscriber script to /home/ommore5807/Workspaces/ros2_py_ws/install/my_py_pkg/lib/my_py_pkg
+[1.501s] 
+[1.501s] Installed /home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg
+[1.501s] running symlink_data
+[1.544s] Invoked command in '/home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg' returned '0': PYTHONPATH=/home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ommore5807/Workspaces/ros2_py_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ommore5807/Workspaces/ros2_py_ws/build/my_py_pkg/build --no-deps symlink_data

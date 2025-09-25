@@ -1,0 +1,41 @@
+[0.027s] Invoking command in '/home/ommore5807/Workspaces/ros2_py_ws/build/encoder': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ommore5807/Workspaces/ros2_py_ws/build/encoder -- -j2 -l2
+[0.140s] Built target ament_cmake_python_symlink_scripts
+[0.401s] running egg_info
+[0.401s] writing scripts.egg-info/PKG-INFO
+[0.403s] writing dependency_links to scripts.egg-info/dependency_links.txt
+[0.404s] writing top-level names to scripts.egg-info/top_level.txt
+[0.406s] reading manifest file 'scripts.egg-info/SOURCES.txt'
+[0.407s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[0.462s] Built target ament_cmake_python_build_scripts_egg
+[0.481s] Invoked command in '/home/ommore5807/Workspaces/ros2_py_ws/build/encoder' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ommore5807/Workspaces/ros2_py_ws/build/encoder -- -j2 -l2
+[0.498s] Invoking command in '/home/ommore5807/Workspaces/ros2_py_ws/build/encoder': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ommore5807/Workspaces/ros2_py_ws/build/encoder
+[0.510s] -- Install configuration: ""
+[0.510s] -- Execute custom install script
+[0.511s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/pythonpath.sh
+[0.511s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/pythonpath.dsv
+[0.512s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+[0.514s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.514s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts/__init__.py
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts/publisher3.py
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts/subscriber3.py
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/lib/encoder/publisher3.py
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/lib/encoder/subscriber3.py
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/ament_index/resource_index/package_run_dependencies/encoder
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/ament_index/resource_index/parent_prefix_path/encoder
+[0.515s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/ament_prefix_path.sh
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/ament_prefix_path.dsv
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/path.sh
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/environment/path.dsv
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/local_setup.bash
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/local_setup.sh
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/local_setup.zsh
+[0.521s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/local_setup.dsv
+[0.521s] -- Symlinking: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/package.dsv
+[0.550s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/ament_index/resource_index/packages/encoder
+[0.550s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/cmake/encoderConfig.cmake
+[0.550s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/cmake/encoderConfig-version.cmake
+[0.552s] -- Up-to-date symlink: /home/ommore5807/Workspaces/ros2_py_ws/install/encoder/share/encoder/package.xml
+[0.591s] Listing '/home/ommore5807/Workspaces/ros2_py_ws/install/encoder/local/lib/python3.10/dist-packages/scripts'...
+[0.599s] Invoked command in '/home/ommore5807/Workspaces/ros2_py_ws/build/encoder' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ommore5807/Workspaces/ros2_py_ws/build/encoder

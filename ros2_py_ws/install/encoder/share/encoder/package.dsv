@@ -1,0 +1,8 @@
+source;share/encoder/hook/cmake_prefix_path.ps1
+source;share/encoder/hook/cmake_prefix_path.dsv
+source;share/encoder/hook/cmake_prefix_path.sh
+source;share/encoder/local_setup.bash
+source;share/encoder/local_setup.dsv
+source;share/encoder/local_setup.ps1
+source;share/encoder/local_setup.sh
+source;share/encoder/local_setup.zsh

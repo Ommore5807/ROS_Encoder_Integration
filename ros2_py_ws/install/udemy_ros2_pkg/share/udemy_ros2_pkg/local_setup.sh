@@ -1,0 +1,1 @@
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,11 @@
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/uninstall.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/udemy_ros2_pkg_uninstall.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/ament_cmake_python_symlink_scripts.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/ament_cmake_python_build_scripts_egg.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/test.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/edit_cache.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/rebuild_cache.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/list_install_components.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install/local.dir
+/home/ommore5807/Workspaces/ros2_py_ws/build/udemy_ros2_pkg/CMakeFiles/install/strip.dir

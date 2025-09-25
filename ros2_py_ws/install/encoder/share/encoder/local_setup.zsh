@@ -1,0 +1,1 @@
+/home/ommore5807/Workspaces/ros2_py_ws/build/encoder/ament_cmake_environment_hooks/local_setup.zsh
